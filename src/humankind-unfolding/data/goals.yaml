@@ -1,0 +1,21 @@
+goals:
+  exploration:
+    begins_with:
+  expansion:
+  exploitation:
+  extermination:
+  primary:
+    expansion:
+      starts_with: irrigation
+      becomes: farming
+    industrialization:
+      starts_with: mining
+      becomes:
+      type: primary
+    warfare:
+      type: primary
+    diplomacy:
+      type: primary
+    spirituality:
+      starts_with:
+    seafaring:
