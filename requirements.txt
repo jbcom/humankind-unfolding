@@ -15,4 +15,4 @@ pygments==2.6.1           # via kivy
 requests==2.23.0          # via kivy-garden
 ruamel.yaml.clib==0.2.0   # via ruamel.yaml
 ruamel.yaml==0.16.10      # via humankind-unfolding (setup.py)
-urllib3==1.25.8           # via requests
+urllib3==1.26.5           # via requests
